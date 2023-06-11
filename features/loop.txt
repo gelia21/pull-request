@@ -1,0 +1,5 @@
+while (true) {
+    # This is infinite loop.
+}
+
+Infinite loop happens when their is no break point inside the loop.
